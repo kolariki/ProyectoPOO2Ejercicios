@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoPOO2", "ProyectoPOO2\ProyectoPOO2.csproj", "{5EF4B9D0-88F8-4AAA-909B-71A29C08C36B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAfinar", "WindowsAfinar\WindowsAfinar.csproj", "{F6A0DC1B-C458-43D6-83F8-3666CC1CC67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibAjedrez", "LibAjedrez\LibAjedrez.csproj", "{CA683EFD-8557-40F2-9E3C-1302677B70E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacientes", "Pacientes\Pacientes.csproj", "{270DB5EF-626B-4AA7-97E7-5D1788E3F6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoAnimales", "ProyectoAnimales\ProyectoAnimales.csproj", "{0F1D5AE3-AF95-43E2-B161-DE38A9C53425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAnimales", "WindowsAnimales\WindowsAnimales.csproj", "{2238EDE0-E363-4603-A2AB-34354B90DFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF4B9D0-88F8-4AAA-909B-71A29C08C36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF4B9D0-88F8-4AAA-909B-71A29C08C36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF4B9D0-88F8-4AAA-909B-71A29C08C36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF4B9D0-88F8-4AAA-909B-71A29C08C36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A0DC1B-C458-43D6-83F8-3666CC1CC67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A0DC1B-C458-43D6-83F8-3666CC1CC67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A0DC1B-C458-43D6-83F8-3666CC1CC67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A0DC1B-C458-43D6-83F8-3666CC1CC67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA683EFD-8557-40F2-9E3C-1302677B70E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA683EFD-8557-40F2-9E3C-1302677B70E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA683EFD-8557-40F2-9E3C-1302677B70E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA683EFD-8557-40F2-9E3C-1302677B70E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270DB5EF-626B-4AA7-97E7-5D1788E3F6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270DB5EF-626B-4AA7-97E7-5D1788E3F6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270DB5EF-626B-4AA7-97E7-5D1788E3F6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270DB5EF-626B-4AA7-97E7-5D1788E3F6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1D5AE3-AF95-43E2-B161-DE38A9C53425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1D5AE3-AF95-43E2-B161-DE38A9C53425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1D5AE3-AF95-43E2-B161-DE38A9C53425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1D5AE3-AF95-43E2-B161-DE38A9C53425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2238EDE0-E363-4603-A2AB-34354B90DFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2238EDE0-E363-4603-A2AB-34354B90DFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2238EDE0-E363-4603-A2AB-34354B90DFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2238EDE0-E363-4603-A2AB-34354B90DFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38F508B-695C-4BDA-A732-4AABA6C1F2CA}
+	EndGlobalSection
+EndGlobal
